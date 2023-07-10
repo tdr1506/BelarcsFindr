@@ -1,6 +1,6 @@
 # BelarcsFindr
 
-## Problem Statement
+### Problem Statement
 
 The code provided is a Python script for a program called "BelarcFindr" that allows users to search for specific information within HTML files and generate an Excel output file containing the extracted data. The script utilizes the Tkinter library to create a graphical user interface (GUI) for the application.
 
