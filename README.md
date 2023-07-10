@@ -193,7 +193,6 @@ def select_output_folder():
     socket.setdefaulttimeout(None)
 
 
-
 def run_search():
     folder_path = r"C:\Program Files (x86)\Belarc\BelarcAdvisor\System\tmp"
     search_text = search_entry.get()
